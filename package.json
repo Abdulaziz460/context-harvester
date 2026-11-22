@@ -55,7 +55,7 @@
     "glob": "^13.0.6",
     "google-auth-library": "^9.14.2",
     "inquirer": "^12.9.4",
-    "minimatch": "^10.2.2",
+    "minimatch": "^11.0.8",
     "ora": "^8.0.1",
     "table": "^6.8.2",
     "update-notifier": "^7.0.0",
