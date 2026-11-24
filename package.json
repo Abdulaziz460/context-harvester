@@ -45,7 +45,7 @@
     "@langchain/mistralai": "^1.0.8",
     "@langchain/openai": "^1.4.5",
     "axios": "^1.7.2",
-    "chalk": "^5.3.0",
+    "chalk": "^6.0.1",
     "chrono-node": "^2.8.4",
     "cli-progress": "^3.12.0",
     "cli-width": "^4.1.0",
